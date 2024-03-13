@@ -7,3 +7,4 @@ accelerate
 omegaconf
 sentencepiece
 compel
+flash-attn
